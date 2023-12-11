@@ -1,0 +1,22 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/menuShare_name"
+        app:showAsAction="ifRoom"
+        app:itemIconTint="@color/black"
+        app:navigationIconTint="@color/black" />
+
+    <item
+        android:id="@+id/menu_item_main"
+        android:title="@string/menu_item_name1"
+        app:itemIconTint="@color/black" />
+
+    <item
+        android:id="@+id/menu_item_about"
+        android:title="@string/menu_item_name2"
+        app:itemIconTint="@color/black" />
+</menu>

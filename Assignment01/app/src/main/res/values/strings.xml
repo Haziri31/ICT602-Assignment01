@@ -1,0 +1,70 @@
+<resources>
+    // App Name
+    <string name="app_name">Zakat Gold Calculator</string>
+
+    // Toolbar Name
+    <string name="tool_name">ZGC Toolbar</string>
+
+    // Icon Name
+    <string name="menuShare_name">Share</string>
+
+    // Menu Item Name
+    <string name="menu_item_name1">Main Page</string>
+    <string name="menu_item_name2">About Page</string>
+
+    <!-- Main Page -->
+    // Input (instruction) Section
+    <string name="instruction_name1">Enter weight of gold</string>
+    <string name="instruction_name2">Choose usage of gold</string>
+    <string name="instruction_name3">Enter value of gold</string>
+
+    // Input (textfield and button) Section
+    <string name="text_name1">Weight of gold (g)</string>
+    <string name="button1_name">Keep</string>
+    <string name="button2_name">Wear</string>
+    <string name="text_name2">Value of gold (RM/g)</string>
+
+    // Input (action button) Section
+    <string name="button3_name">Calculate</string>
+    <string name="button4_name">Clear</string>
+
+    // Output (textview) Section
+    <string name="output_name1">Total gold value : </string>
+    <string name="output_name2">Amount of zakat payable : </string>
+    <string name="output_name3">Total zakat payment : </string>
+
+    <!-- About Page -->
+    <string name="developer_label">\nDeveloped by :</string>
+    <string name="developer_content">
+        \nName : Hazeem Fitri Bin Ahmad Shaberi
+        \nStudent Number : 2021614276
+        \nProgramme Code : CS240
+        \nGroup : 5B
+    </string>
+    <string name="appDesc_label">\nInformation :</string>
+    <string name="appDesc_content">
+        \nWelcome to the Zakat Gold Calculator, your reliable companion for calculating Zakat on gold assets.
+        This app is designed to simplify the process of determining your Zakat obligations, making it easy and convenient for users from all walks of life.
+        \n
+        \n•Why Use Zakat Gold Calculator?
+        \nThe Zakat Gold Calculator app offers a user-friendly interface and accurate calculations, ensuring you meet your Zakat responsibilities with confidence.
+        \nWhether you are an individual looking to fulfill your religious obligations or a financial advisor assisting others, this app provides a quick and precise solution.
+        \n
+        \n•Who Should Use This App?
+        \n° Individuals who own gold assets and need to calculate Zakat.
+        \n° Financial advisors guiding clients on Zakat obligations related to gold.
+        \n° Anyone seeking a reliable tool to ensure accurate Zakat payments.
+        \n
+        \n•How to Use:
+        \n1. Enter the weight and value of your gold assets.
+        \n2. Choose the purpose of gold usage – whether you plan to keep or wear it.
+        \n3. Click the "Calculate" button to instantly receive the total gold value, payable Zakat amount, and overall Zakat payment.
+        \n4. Review the results and proceed with confidence in meeting your Zakat commitments.
+        \n
+        \nThe Zakat Gold Calculator app is committed to providing a seamless and efficient solution, helping you fulfill your religious duties with ease. Download now and experience the convenience of precise Zakat calculations!
+    </string>
+    <string name="copyright_label">\nCopyright :</string>
+    <string name="copyright_content">\nCopyright © 2023 Zakat Gold Calculator. All rights reserved.</string>
+    <string name="clickableLink_label">\nApplication URL :</string>
+    <string name="clickableLink_content">\nhttps://github.com/Haziri31/ICT602-Assignment01</string>
+</resources>
